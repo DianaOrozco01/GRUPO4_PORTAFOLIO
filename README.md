@@ -1,4 +1,4 @@
-🌟 Portafolio de Diana Encarnación 🌟
+##🌟 Portafolio de Diana Encarnación 🌟
 Bienvenido/a a mi portafolio personal como Desarrolladora Frontend (UI/UX). Este proyecto fue creado con tecnologías modernas para mostrar mis habilidades, proyectos y videos.
 
 🛠️ Tecnologías Utilizadas
